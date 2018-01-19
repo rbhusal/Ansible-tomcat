@@ -1,0 +1,10 @@
+##used for tomcat installation..
+
+
+http_port: 8080
+https_port: 8443
+
+
+##used for the tomcat admin interface
+admin_username: admin
+admin_password: adminsecret
